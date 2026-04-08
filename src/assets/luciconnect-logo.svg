@@ -1,0 +1,10 @@
+<svg width="240" height="56" viewBox="0 0 240 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- WiFi Icon -->
+  <path d="M28 20C22.8 20 18 21.6 14 24.4L16.8 27.6C19.6 25.6 23.2 24.4 28 24.4C32.8 24.4 36.4 25.6 39.2 27.6L42 24.4C38 21.6 33.2 20 28 20Z" fill="#1e40af"/>
+  <path d="M28 28C24.4 28 21.2 29.2 18.8 31.2L21.6 34.4C23.2 32.8 25.6 32 28 32C30.4 32 32.8 32.8 34.4 34.4L37.2 31.2C34.8 29.2 31.6 28 28 28Z" fill="#1e40af"/>
+  <circle cx="28" cy="40" r="3" fill="#1e40af"/>
+  
+  <!-- LuciConnect Text -->
+  <text x="52" y="38" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#1e40af">Luci</text>
+  <text x="112" y="38" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="#3b82f6">Connect</text>
+</svg>

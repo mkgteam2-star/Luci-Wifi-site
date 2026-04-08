@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { Phone, Menu, X } from "lucide-react";
 import { COMPANY } from "@/lib/constants";
 import { Button } from "@/components/ui/button";
-import logo from "@/assets/luciconnect-logo.png";
+import logo from "@/assets/luciconnect-logo.svg";
 
 const navLinks = [
   { label: "Internet", path: "/internet" },

@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="100" fill="#1e40af"/>
+  
+  <!-- WiFi Icon -->
+  <path d="M256 160C220 160 186 172 158 192L182 220C202 206 228 196 256 196C284 196 310 206 330 220L354 192C326 172 292 160 256 160Z" fill="white"/>
+  <path d="M256 236C232 236 210 244 194 258L218 286C228 276 242 270 256 270C270 270 284 276 294 286L318 258C302 244 280 236 256 236Z" fill="white"/>
+  <circle cx="256" cy="340" r="30" fill="white"/>
+  
+  <!-- L Letter -->
+  <rect x="160" y="360" width="40" height="120" fill="white"/>
+  <rect x="160" y="440" width="80" height="40" fill="white"/>
+</svg>
