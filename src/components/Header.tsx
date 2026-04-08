@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { Phone, Menu, X } from "lucide-react";
 import { COMPANY } from "@/lib/constants";
 import { Button } from "@/components/ui/button";
-import logo from "@/assets/luci-wifi-logo.png";
+import logo from "@/assets/luciconnect-logo.png";
 
 const navLinks = [
   { label: "Internet", path: "/internet" },
@@ -21,7 +21,7 @@ const Header = () => {
     <header className="sticky top-0 z-50 bg-card/90 backdrop-blur-md border-b border-border">
       <div className="container mx-auto px-4 flex items-center justify-between h-16">
         <Link to="/" className="flex items-center gap-2">
-          <img src={logo} alt="Luci Wifi" className="h-10 w-auto" />
+          <img src={logo} alt="LuciConnect" className="h-10 w-auto" />
         </Link>
 
         {/* Desktop nav */}

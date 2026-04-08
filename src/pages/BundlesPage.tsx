@@ -42,7 +42,7 @@ const bundles = [
 
 const BundlesPage = () => (
   <>
-    <SEOHead title="Bundle Deals" description="Save with Luci Wifi bundle packages. Combine Internet and Cable TV for the best value. Call (877) 213-6707." />
+    <SEOHead title="Bundle Deals" description="Save with LuciConnect bundle packages. Combine Internet and Cable TV for the best value. Call (877) 213-6707." />
 
     <section className="py-20 md:py-28 relative overflow-hidden bg-gradient-to-br from-primary/5 via-background to-accent/5">
       <div className="container mx-auto px-4 text-center space-y-6">

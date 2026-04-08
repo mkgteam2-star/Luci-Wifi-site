@@ -20,19 +20,19 @@ const services = [
 ];
 
 const steps = [
-  { num: "01", title: "Check Availability", desc: "Call us or visit our website to see if Luci Wifi services your area." },
+  { num: "01", title: "Check Availability", desc: "Call us or visit our website to see if LuciConnect services your area." },
   { num: "02", title: "Choose Your Plan", desc: "Pick the Internet, Cable, or Bundle package that fits your household's needs." },
   { num: "03", title: "Get Connected", desc: "Our technicians handle the setup — enjoy fast, reliable service from day one." },
 ];
 
 const testimonials = [
-  { name: "Sarah M.", text: "Switched to Luci Wifi and haven't looked back. The speeds are incredible and the price is fair.", rating: 5 },
+  { name: "Sarah M.", text: "Switched to LuciConnect and haven't looked back. The speeds are incredible and the price is fair.", rating: 5 },
   { name: "James T.", text: "Best customer service I've had from any ISP. They actually answer the phone!", rating: 5 },
   { name: "Linda K.", text: "The bundle deal saved us over $40/month compared to our old provider. Highly recommend.", rating: 5 },
 ];
 
 const faqs = [
-  { q: "What areas does Luci Wifi serve?", a: "We proudly serve customers across the USA. Call us to check availability at your specific address." },
+  { q: "What areas does LuciConnect serve?", a: "We proudly serve customers across the USA. Call us to check availability at your specific address." },
   { q: "How fast is the installation process?", a: "Most installations are completed within 2-3 business days of your order. Our technicians will schedule a time that works for you." },
   { q: "Do you require a contract?", a: "We offer both contract and no-contract options. Ask our team about the flexibility that works best for your situation." },
   { q: "What happens if I experience an outage?", a: "Our 24/7 support team is always available. Call (877) 213-6707 and we'll get you back online as quickly as possible." },
@@ -43,7 +43,7 @@ const Index = () => {
 
   return (
     <>
-      <SEOHead title="Home" description="Luci Wifi offers reliable high-speed internet, cable TV, and bundle packages across the USA. Call (877) 213-6707." canonical="https://luciwifi.com/" />
+      <SEOHead title="Home" description="LuciConnect offers reliable high-speed internet, cable TV, and bundle packages across the USA. Call (877) 213-6707." canonical="https://luciconnect.com/" />
 
       {/* Hero */}
       <section className="relative py-24 md:py-36 overflow-hidden">
@@ -135,7 +135,7 @@ const Index = () => {
       <section className="py-20 bg-card">
         <div className="container mx-auto px-4">
           <div className="text-center mb-14">
-            <h2 className="text-3xl md:text-4xl font-heading font-bold text-foreground">Why Choose Luci Wifi?</h2>
+            <h2 className="text-3xl md:text-4xl font-heading font-bold text-foreground">Why Choose LuciConnect?</h2>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {[

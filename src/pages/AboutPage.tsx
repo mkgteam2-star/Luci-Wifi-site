@@ -68,8 +68,8 @@ const AboutPage = () => (
         <h2 className="text-3xl font-heading font-bold text-foreground text-center mb-12">About Us FAQs</h2>
         <Accordion type="single" collapsible className="space-y-3">
           {[
-            { q: "Who owns and operates Luci Wifi?", a: `Luci Wifi is a service of ${COMPANY.legalName}, a locally registered company based in Hillsdale, Michigan. We are independently owned and operated.` },
-            { q: "How long has Luci Wifi been in business?", a: "Luci Wifi has been proudly serving the community with reliable internet and cable services, building long-term relationships with our customers through quality service and local support." },
+            { q: "Who owns and operates LuciConnect?", a: `LuciConnect is a service of ${COMPANY.legalName}, a locally registered company based in Hillsdale, Michigan. We are independently owned and operated.` },
+            { q: "How long has LuciConnect been in business?", a: "LuciConnect has been proudly serving the community with reliable internet and cable services, building long-term relationships with our customers through quality service and local support." },
             { q: "Do you serve areas outside of Michigan?", a: "We are expanding our services across the USA. Call us at (877) 213-6707 to check availability in your area." },
           ].map((faq, i) => (
             <AccordionItem key={i} value={`faq-${i}`} className="border border-border rounded-lg bg-background px-5">

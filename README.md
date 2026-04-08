@@ -1,6 +1,6 @@
-# Luci WiFi Website
+# LuciConnect Website
 
-Official website for Luci WiFi - deployed at [luciwifi.com](https://luciwifi.com)
+Official website for LuciConnect - deployed at [luciconnect.com](https://luciconnect.com)
 
 ## Technologies
 
@@ -38,7 +38,7 @@ npm test
 
 The site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
 
-Custom domain: **luciwifi.com**
+Custom domain: **luciconnect.com**
 
 ## Project Structure
 

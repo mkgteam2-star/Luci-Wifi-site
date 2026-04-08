@@ -38,7 +38,7 @@ const plans = [
 
 const InternetPage = () => (
   <>
-    <SEOHead title="Internet Plans" description="Explore Luci Wifi high-speed internet plans. From 100 Mbps to 1 Gbps, find the perfect speed for your home. Call (877) 213-6707." />
+    <SEOHead title="Internet Plans" description="Explore LuciConnect high-speed internet plans. From 100 Mbps to 1 Gbps, find the perfect speed for your home. Call (877) 213-6707." />
 
     {/* Hero */}
     <section className="py-20 md:py-28 relative overflow-hidden bg-gradient-to-br from-primary/5 via-background to-background">
@@ -126,7 +126,7 @@ const InternetPage = () => (
         <Accordion type="single" collapsible className="space-y-3">
           {[
             { q: "What internet speed do I need?", a: "For basic browsing and email, 100 Mbps is sufficient. For streaming, gaming, and multiple devices, we recommend 500 Mbps or higher. Households with heavy usage should consider our 1 Gbps Ultra plan." },
-            { q: "Is there a data cap on your internet plans?", a: "No — all Luci Wifi internet plans include truly unlimited data. Stream, download, and browse as much as you want without overage charges or throttling." },
+            { q: "Is there a data cap on your internet plans?", a: "No — all LuciConnect internet plans include truly unlimited data. Stream, download, and browse as much as you want without overage charges or throttling." },
             { q: "How long does internet installation take?", a: "Most installations are completed within 2–3 business days. Our local technicians will schedule a convenient time and handle everything for you." },
             { q: "Can I use my own modem or router?", a: "Yes, you can use your own compatible equipment. However, all our plans include free modem and router rental, so you don't have to worry about buying your own." },
           ].map((faq, i) => (
