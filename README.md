@@ -1,6 +1,6 @@
-# LuciConnect Website
+# NLT Bundles Website
 
-Official website for LuciConnect - deployed at [luciconnect.com](https://luciconnect.com)
+Official website for NLT Bundles - deployed at [nltbundles.com](https://nltbundles.com)
 
 ## Technologies
 
@@ -38,7 +38,7 @@ npm test
 
 The site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
 
-Custom domain: **luciconnect.com**
+Custom domain: **nltbundles.com**
 
 ## Project Structure
 

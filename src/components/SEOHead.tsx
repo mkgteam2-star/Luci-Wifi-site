@@ -24,7 +24,7 @@ const SEOHead = ({ title, description, canonical, jsonLd }: SEOHeadProps) => {
       postalCode: "48242",
       addressCountry: "US",
     },
-    url: "https://luciconnect.com",
+    url: "https://nltbundles.com",
     description,
   };
 

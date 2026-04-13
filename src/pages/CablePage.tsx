@@ -38,7 +38,7 @@ const plans = [
 
 const CablePage = () => (
   <>
-    <SEOHead title="Cable TV Plans" description="LuciConnect cable TV packages with 50-250+ channels. HD quality, DVR included. Call (877) 213-6707." />
+    <SEOHead title="Cable TV Plans" description="NLT Bundles cable TV packages with 50-250+ channels. HD quality, DVR included. Call (877) 213-6707." />
 
     <section className="py-20 md:py-28 relative overflow-hidden bg-gradient-to-br from-accent/5 via-background to-background">
       <div className="container mx-auto px-4 text-center space-y-6">
@@ -136,7 +136,7 @@ const CablePage = () => (
       </div>
     </section>
 
-    <CallToAction title="Upgrade Your Entertainment" subtitle="Call now to get started with Cable TV from LuciConnect." />
+    <CallToAction title="Upgrade Your Entertainment" subtitle="Call now to get started with Cable TV from NLT Bundles." />
   </>
 );
 
